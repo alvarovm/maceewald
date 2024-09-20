@@ -1,3 +1,11 @@
+----
+# <span style="font-size:larger;">MACE-Ewald</span>
+
+This is an experimental version of MACE with EwaldMP. This is not meant to be for production. Excercise with caution. It needs extensive testing before use.
+
+
+----
+
 # <span style="font-size:larger;">MACE</span>
 
 [![GitHub release](https://img.shields.io/github/release/ACEsuit/mace.svg)](https://GitHub.com/ACEsuit/mace/releases/)
